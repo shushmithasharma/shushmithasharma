@@ -129,7 +129,7 @@
 
 ## 📫 Connect
 
-* 📧 [your-email@example.com](mailto:shushmithasharma015@gmail.com)
+* 📧 [shushmithasharma015@gmail.com](mailto:shushmithasharma015@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/shushmitha-sharma-ai/
 
 ---
