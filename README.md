@@ -10,7 +10,7 @@
 
 ## 🧠 Who Am I?
 
-* 🎓 3rd Year B.Tech AIML Student
+* 🎓 4th Year B.Tech AIML Student
 * 🧠 Focused on **AI, ML & Intelligent Systems**
 * 🏥 Passionate about **Healthcare AI & Assistive Technology**
 * ⚡ I build projects that solve **real-world challenges**
